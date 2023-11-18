@@ -1,0 +1,133 @@
+Target values: black mask, black mask, black mask, black mask, black mask
+Dice to roll: 5
+Number of trials: 10
+~~~~~~~~~~ Trial #1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): green explorer, blue key, red torch, green explorer, black mask
+Roll #2 (4 dice to roll, 1 locked): black mask, green explorer, black mask, red torch
+Roll #3 (2 dice to roll, 3 locked): gold mask, blue key
+Roll #4 (2 dice to roll, 3 locked): green explorer, blue key
+Roll #5 (2 dice to roll, 3 locked): green explorer, black mask
+Roll #6 (1 die to roll, 4 locked): green explorer
+Roll #7 (1 die to roll, 4 locked): black mask
+### Target successfully met after 7 rolls.
+~~~~~~~~~~ Trial #2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): black mask, green explorer, red torch, gold mask, green explorer
+Roll #2 (4 dice to roll, 1 locked): red torch, red torch, green explorer, gold mask
+Roll #3 (4 dice to roll, 1 locked): blue key, black mask, black mask, gold mask
+Roll #4 (2 dice to roll, 3 locked): blue key, green explorer
+Roll #5 (2 dice to roll, 3 locked): green explorer, black mask
+Roll #6 (1 die to roll, 4 locked): blue key
+Roll #7 (1 die to roll, 4 locked): red torch
+Roll #8 (1 die to roll, 4 locked): red torch
+Roll #9 (1 die to roll, 4 locked): red torch
+Roll #10 (1 die to roll, 4 locked): green explorer
+Roll #11 (1 die to roll, 4 locked): red torch
+Roll #12 (1 die to roll, 4 locked): blue key
+Roll #13 (1 die to roll, 4 locked): blue key
+Roll #14 (1 die to roll, 4 locked): black mask
+### Target successfully met after 14 rolls.
+~~~~~~~~~~ Trial #3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): black mask, green explorer, blue key, blue key, gold mask
+Roll #2 (4 dice to roll, 1 locked): gold mask, blue key, red torch, black mask
+Roll #3 (3 dice to roll, 2 locked): black mask, gold mask, blue key
+Roll #4 (2 dice to roll, 3 locked): black mask, blue key
+Roll #5 (1 die to roll, 4 locked): red torch
+Roll #6 (1 die to roll, 4 locked): blue key
+Roll #7 (1 die to roll, 4 locked): green explorer
+Roll #8 (1 die to roll, 4 locked): black mask
+### Target successfully met after 8 rolls.
+~~~~~~~~~~ Trial #4 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): green explorer, green explorer, red torch, green explorer, red torch
+Roll #2 (5 dice to roll, 0 locked): green explorer, green explorer, green explorer, green explorer, green explorer
+Roll #3 (5 dice to roll, 0 locked): blue key, blue key, green explorer, blue key, gold mask
+Roll #4 (5 dice to roll, 0 locked): green explorer, red torch, black mask, blue key, red torch
+Roll #5 (4 dice to roll, 1 locked): red torch, blue key, blue key, gold mask
+Roll #6 (4 dice to roll, 1 locked): red torch, green explorer, red torch, green explorer
+Roll #7 (4 dice to roll, 1 locked): green explorer, green explorer, black mask, gold mask
+Roll #8 (3 dice to roll, 2 locked): green explorer, black mask, gold mask
+Roll #9 (2 dice to roll, 3 locked): gold mask, green explorer
+Roll #10 (2 dice to roll, 3 locked): green explorer, green explorer
+Roll #11 (2 dice to roll, 3 locked): blue key, green explorer
+Roll #12 (2 dice to roll, 3 locked): red torch, red torch
+Roll #13 (2 dice to roll, 3 locked): green explorer, blue key
+Roll #14 (2 dice to roll, 3 locked): red torch, red torch
+Roll #15 (2 dice to roll, 3 locked): green explorer, blue key
+Roll #16 (2 dice to roll, 3 locked): blue key, red torch
+Roll #17 (2 dice to roll, 3 locked): gold mask, green explorer
+Roll #18 (2 dice to roll, 3 locked): blue key, blue key
+Roll #19 (2 dice to roll, 3 locked): black mask, blue key
+Roll #20 (1 die to roll, 4 locked): black mask
+### Target successfully met after 20 rolls.
+~~~~~~~~~~ Trial #5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): blue key, blue key, gold mask, blue key, green explorer
+Roll #2 (5 dice to roll, 0 locked): blue key, black mask, red torch, green explorer, green explorer
+Roll #3 (4 dice to roll, 1 locked): red torch, gold mask, green explorer, gold mask
+Roll #4 (4 dice to roll, 1 locked): black mask, red torch, blue key, green explorer
+Roll #5 (3 dice to roll, 2 locked): green explorer, blue key, green explorer
+Roll #6 (3 dice to roll, 2 locked): black mask, blue key, green explorer
+Roll #7 (2 dice to roll, 3 locked): red torch, gold mask
+Roll #8 (2 dice to roll, 3 locked): blue key, black mask
+Roll #9 (1 die to roll, 4 locked): black mask
+### Target successfully met after 9 rolls.
+~~~~~~~~~~ Trial #6 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): green explorer, red torch, blue key, red torch, gold mask
+Roll #2 (5 dice to roll, 0 locked): gold mask, green explorer, blue key, green explorer, black mask
+Roll #3 (4 dice to roll, 1 locked): red torch, green explorer, green explorer, green explorer
+Roll #4 (4 dice to roll, 1 locked): green explorer, gold mask, green explorer, green explorer
+Roll #5 (4 dice to roll, 1 locked): blue key, black mask, black mask, red torch
+Roll #6 (2 dice to roll, 3 locked): black mask, gold mask
+Roll #7 (1 die to roll, 4 locked): black mask
+### Target successfully met after 7 rolls.
+~~~~~~~~~~ Trial #7 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): blue key, red torch, green explorer, black mask, red torch
+Roll #2 (4 dice to roll, 1 locked): green explorer, black mask, gold mask, blue key
+Roll #3 (3 dice to roll, 2 locked): green explorer, green explorer, gold mask
+Roll #4 (3 dice to roll, 2 locked): red torch, green explorer, red torch
+Roll #5 (3 dice to roll, 2 locked): gold mask, black mask, red torch
+Roll #6 (2 dice to roll, 3 locked): blue key, green explorer
+Roll #7 (2 dice to roll, 3 locked): red torch, green explorer
+Roll #8 (2 dice to roll, 3 locked): red torch, gold mask
+Roll #9 (2 dice to roll, 3 locked): black mask, green explorer
+Roll #10 (1 die to roll, 4 locked): black mask
+### Target successfully met after 10 rolls.
+~~~~~~~~~~ Trial #8 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): green explorer, green explorer, green explorer, gold mask, green explorer
+Roll #2 (5 dice to roll, 0 locked): gold mask, blue key, blue key, green explorer, black mask
+Roll #3 (4 dice to roll, 1 locked): green explorer, blue key, green explorer, red torch
+Roll #4 (4 dice to roll, 1 locked): green explorer, green explorer, black mask, blue key
+Roll #5 (3 dice to roll, 2 locked): green explorer, blue key, green explorer
+Roll #6 (3 dice to roll, 2 locked): gold mask, gold mask, green explorer
+Roll #7 (3 dice to roll, 2 locked): red torch, blue key, blue key
+Roll #8 (3 dice to roll, 2 locked): blue key, gold mask, gold mask
+Roll #9 (3 dice to roll, 2 locked): black mask, green explorer, black mask
+Roll #10 (1 die to roll, 4 locked): red torch
+Roll #11 (1 die to roll, 4 locked): blue key
+Roll #12 (1 die to roll, 4 locked): blue key
+Roll #13 (1 die to roll, 4 locked): gold mask
+Roll #14 (1 die to roll, 4 locked): blue key
+Roll #15 (1 die to roll, 4 locked): blue key
+Roll #16 (1 die to roll, 4 locked): green explorer
+Roll #17 (1 die to roll, 4 locked): gold mask
+Roll #18 (1 die to roll, 4 locked): black mask
+### Target successfully met after 18 rolls.
+~~~~~~~~~~ Trial #9 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): green explorer, red torch, green explorer, red torch, red torch
+Roll #2 (5 dice to roll, 0 locked): red torch, gold mask, blue key, black mask, black mask
+Roll #3 (3 dice to roll, 2 locked): green explorer, green explorer, black mask
+Roll #4 (2 dice to roll, 3 locked): black mask, green explorer
+Roll #5 (1 die to roll, 4 locked): black mask
+### Target successfully met after 5 rolls.
+~~~~~~~~~~ Trial #10 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roll #1 (5 dice to roll, 0 locked): gold mask, blue key, green explorer, green explorer, green explorer
+Roll #2 (5 dice to roll, 0 locked): blue key, gold mask, green explorer, green explorer, black mask
+Roll #3 (4 dice to roll, 1 locked): blue key, gold mask, blue key, green explorer
+Roll #4 (4 dice to roll, 1 locked): black mask, gold mask, red torch, green explorer
+Roll #5 (3 dice to roll, 2 locked): gold mask, black mask, green explorer
+Roll #6 (2 dice to roll, 3 locked): gold mask, red torch
+Roll #7 (2 dice to roll, 3 locked): green explorer, gold mask
+Roll #8 (2 dice to roll, 3 locked): green explorer, black mask
+Roll #9 (1 die to roll, 4 locked): black mask
+### Target successfully met after 9 rolls.
+~~~~~~~~~~ Final Results ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successful trials: 10 / 10 (100%)
+Average number of rolls until success: 10.7 (stdev: 4.73392)
